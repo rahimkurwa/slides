@@ -1,8 +1,10 @@
-# Did you know?
+# CLJ 114 Race, Class, Gender, and the Law
+## Rahim Kurwa
+### Tuesdays and Thursdays, 9:30-10:45am
 
 ---
 
-## Syntax highlighting
+#Welcome
 
 It’s _**sooo easy**_ to show `codeSamples();` in your presentations. Deckset applies syntax highlighting and scales the type size so it always looks great.
 
